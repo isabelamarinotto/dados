@@ -52,7 +52,7 @@ Por isso, entender **quais fatores levam ao cancelamento** é essencial para cri
 
 ![Cancelamento por atraso](imagens/dias_atraso.png)
 
----
+----
 
 # Principais problemas identificados
 
