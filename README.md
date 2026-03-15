@@ -42,7 +42,7 @@ Por isso, entender **quais fatores levam ao cancelamento** é essencial para cri
 
 ## Cancelamento por tipo de contrato
 
-![Cancelamento por tipo de contrato](imagens/tipo_contrato.png)
+![Cancelamento por tipo de contrato](imagens/duracao_contrato.png)
 
 ## Cancelamento por número de ligações no call center
 
