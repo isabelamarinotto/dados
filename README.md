@@ -1,6 +1,6 @@
 # Análise de Cancelamento de Clientes (Churn Analysis)
 
-Este projeto consiste em uma análise de dados utilizando **Python** para entender os principais fatores que levam clientes a cancelar um serviço.
+Este projeto consiste em uma análise de dados utilizando **Python** para entender os principais fatores que levam clientes a cancelar um serviço. Deixei as minhas anotações no código com o objetivo de registrar o meu processo de aprendizagem!
 
 A empresa possui uma base com mais de **800 mil clientes** e percebeu que grande parte deles está cancelando o serviço. O objetivo da análise foi identificar **padrões associados ao cancelamento** e propor possíveis ações para reduzir esse problema.
 
